@@ -1,19 +1,20 @@
-README AGENDA DE CONTATOS
+#README AGENDA DE CONTATOS
 
-URL PARA ACESSAR: localhost:53557/api/produtos
-O projeto é uma api para agenda de contatos.
-Usei contatos fictícios do jogo Mortal Kombat.
-É uma implementação de uma web api em C#.
+*URL PARA ACESSAR: localhost:53557/api/produtos*
+
+O projeto Ã© uma api para agenda de contatos.
+Usei contatos fictÃ­cios do jogo Mortal Kombat.
+Ã‰ uma implementaÃ§Ã£o de uma web api em C#.
 A IDE utilizada para desenvolvimento foi o visual studio community.
 
--Para executar o projeto basta baixar o Visual Studio, usei a versão Community.
+-Para executar o projeto basta baixar o Visual Studio, usei a versÃ£o Community.
 
--Extraia esse projeto em um diretório de sua preferência.
--Abra o VS e clique em Arquivo->Abrir->Projeto/Solução e selecione o projeto WebAPI2_Contatos
+-Extraia esse projeto em um diretÃ³rio de sua preferÃªncia.
+-Abra o VS e clique em Arquivo->Abrir->Projeto/SoluÃ§Ã£o e selecione o projeto WebAPI2_Contatos
 
 -Assim que o projeto abrir, execute o servidor IIS.
-Acesse a api através da url :  localhost:53557/api/produtos
+Acesse a api atravÃ©s da url : *localhost:53557/api/produtos*
 
-A Web API oferece suporte aos serviços usando recursos do HTTP, fornece todas as operações do crud e exibe as respostas em formato JSON ou XML.
+A Web API oferece suporte aos serviÃ§os usando recursos do HTTP, fornece todas as operaÃ§Ãµes do crud e exibe as respostas em formato JSON ou XML.
 
 
