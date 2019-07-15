@@ -17,4 +17,6 @@ Acesse a api através da url : *localhost:53557/api/produtos*
 
 A Web API oferece suporte aos serviços usando recursos do HTTP, fornece todas as operações do crud e exibe as respostas em formato JSON ou XML.
 
+Usei o Swagger para ler os dados da api
+
 
